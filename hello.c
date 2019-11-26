@@ -16,4 +16,5 @@ int main(void)
       curl_easy_cleanup(curl); 
   } 
   return 0; 
-} 
+}
+[![Build Status](https://travis-ci.com/linbming/ankim.svg?branch=master)](https://travis-ci.com/linbming/ankim)
